@@ -69,6 +69,8 @@ Once I found the little square button with a T in it, this was straightforward. 
 **Feedback**
 
 -The link to 'Install The Harness Delegate' has been moved and should be updated within the UI
+
 -It wasn't clear that you need to create an 'application' and I found this in Setup, Create Application. It seems like the wizard and/or the instructions should be a bit more clear about this creation step.
+
 -A knowledge base article could be written on the error I received in Step 3
 
