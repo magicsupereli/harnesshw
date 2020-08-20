@@ -35,14 +35,14 @@ docker system prune -af --volumes
 Then I used brew install to install it and we are up and running cleanly:
 
 **Screenshot 1 (MiniKube):**
-![Alt text](/Step_1_-_Minikube?raw=true "Minikube")
+![Alt text](/Step_1_-_Minikube.png?raw=true "Minikube")
 
 **2 - Harness Trial and Delegate Install -- Time taken: 11m**
 
 I followed the setup for the YAML instructions, installed this and verified it was running properly:
 
 **Screenshot 2 (Delegate):**
-![Alt text](/Step_2_-_Delegate?raw=true "Delegate")
+![Alt text](/Step_2_-_Delegate.png?raw=true "Delegate")
 
 **3 - Service, Environments, and Workflow -- Time taken: 41m**
 
@@ -57,14 +57,14 @@ Googleing this error wasn't insightful at first. I dug a bit deeper and then rea
 This solved the issue and I was able to move on with creating the other pipelines and deployments properly.
 
 **Screenshot 3 (Service):**
-![Alt text](/Step_3_-_Service?raw=true "Service")
+![Alt text](/Step_3_-_Service.png?raw=true "Service")
 
 **4 - Pipelines and Templatization -- Time taken: 7m**
 
 Once I found the little square button with a T in it, this was straightforward. I then recreated a generalized pipeline to run this under and set it up
 
 **Screenshot 4 (Pipelines):**
-![Alt text](/Step_4_-_Pipelines?raw=true "Pipelines")
+![Alt text](/Step_4_-_Pipelines.png?raw=true "Pipelines")
 
 **Feedback**
 
